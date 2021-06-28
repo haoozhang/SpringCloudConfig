@@ -1,5 +1,0 @@
-
-spring:
-  application:
-    name: springcloud-config-prod
-  profile: prod
