@@ -1,7 +1,7 @@
 spring:
   profile:
     active: dev
-
+  
 ---
 spring:
   application:
