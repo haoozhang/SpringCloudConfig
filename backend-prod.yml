@@ -1,0 +1,6 @@
+azure:
+  spring:
+    apps:
+      config-server:
+        health: UP-prod
+        value: haozhangms-prod
